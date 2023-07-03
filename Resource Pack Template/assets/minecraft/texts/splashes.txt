@@ -1,0 +1,2 @@
+here you can write custom splash messages!
+every line is a new message
